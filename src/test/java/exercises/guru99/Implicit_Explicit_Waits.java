@@ -66,5 +66,4 @@ public class Implicit_Explicit_Waits {
         guru99seleniumlink= wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath( "/html/body/div[1]/section/div[2]/div/div[1]/div/div[1]/div/div/div/div[2]/div[2]/div/div/div/div/div[1]/div/div/a/i")));
         guru99seleniumlink.click();
     }
-
 }
